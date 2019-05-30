@@ -36,7 +36,7 @@
     "isomorphic-fetch": "^2.2.1",
     "webpack": "^1.13.0",
     "yargs": "^4.7.0",
-    "babel-eslint": "^6.0.4",
+    "babel-eslint": "^9.0.0",
     "babel-plugin-__coverage__": "^11.0.0",
     "babel-polyfill": "^6.8.0",
     "babel-register": "^6.8.0",
