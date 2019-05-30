@@ -40,7 +40,7 @@
     "babel-plugin-__coverage__": "^11.0.0",
     "babel-polyfill": "^6.8.0",
     "babel-register": "^6.8.0",
-    "chai": "^3.5.0",
+    "chai": "^4.2.0",
     "eslint": "^2.10.2",
     "eslint-config-airbnb": "^9.0.1",
     "eslint-plugin-import": "^1.8.1",
