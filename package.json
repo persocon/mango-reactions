@@ -34,7 +34,7 @@
     "babel-preset-react": "^6.5.0",
     "es6-promise": "^4.0.5",
     "isomorphic-fetch": "^2.2.1",
-    "webpack": "^1.13.0",
+    "webpack": "^2.7.0",
     "yargs": "^13.2.4",
     "babel-eslint": "^9.0.0",
     "babel-plugin-__coverage__": "^11.0.0",
